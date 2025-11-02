@@ -1,0 +1,32 @@
+.h1{
+    color: red;
+}
+
+.h2{
+    color: lightgreen;
+    font-style: italic;
+}
+
+.delete{
+    text-decoration-line: line-through;
+}
+
+.highlight{
+    background-color: yellow;
+    text-decoration-line: none;
+}
+
+.ul{
+    color: red;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    margin-bottom: 20px;
+}
+
+.fs{
+    font-size: 9px;
+}
+
+.italic{
+    font-style: italic;
+}
